@@ -2,6 +2,7 @@
 
 To allow an address to deploy over Roads or Plazas, please send a pull request updating `db.json`.
 
+
 Format:
 ```json
 {
@@ -15,3 +16,4 @@ Format:
   ]
 }
 ```
+> NOTE: Make sure the Ethereum Address is all lower case
