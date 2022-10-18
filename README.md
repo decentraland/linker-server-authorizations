@@ -16,4 +16,9 @@ Format:
   ]
 }
 ```
-> NOTE: Make sure the Ethereum Address is all lower case
+
+Notes:
+
+* Make sure the Ethereum Address is all lower case
+* Make sure the json is valid syntax
+* Make sure the coordinate is format is ##,##
