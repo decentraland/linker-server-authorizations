@@ -19,6 +19,6 @@ Format:
 
 Notes:
 
-* Make sure the Ethereum Address is all lower case
+* WORKAROUND Make sure the Ethereum Address is all lower case and entered mixed case.  The tool needs to be fixed to be case insenstive.
 * Make sure the json is valid syntax
 * Make sure the coordinate is format is ##,##
