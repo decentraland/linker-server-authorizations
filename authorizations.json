@@ -5,12 +5,16 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [],
-    "plots": []
+    "addresses": [
+
+    ],
+    "plots": [
+
+    ]
   },
   {
     "name": "",
-    "desc": "",
+    "desc": "South West Plaza for ....????  commted here by Kyllian, not sure for what purpose testing??  sha:43d1dda",
     "contactInfo": {
       "name": ""
     },
@@ -424,7 +428,7 @@
     "name": "",
     "desc": "",
     "contactInfo": {
-      "name": ""
+      "name": "North West Plaza - DCL content team wallet"
     },
     "addresses": [
       "0x4730182099bc4e60075C657cCeCEc8879826bb43"
@@ -764,7 +768,7 @@
   },
   {
     "name": "",
-    "desc": "",
+    "desc": "North West Plaza - Festival DCL Team all 400 parcles",
     "contactInfo": {
       "name": ""
     },
@@ -1408,7 +1412,7 @@
   },
   {
     "name": "",
-    "desc": "",
+    "desc": "North West Plaza - Festival Non Roads - Studio Parcels",
     "contactInfo": {
       "name": ""
     },
@@ -1612,7 +1616,7 @@
   },
   {
     "name": "",
-    "desc": "",
+    "desc": "CanvasLand",
     "contactInfo": {
       "name": ""
     },
@@ -1628,7 +1632,7 @@
   },
   {
     "name": "",
-    "desc": "",
+    "desc": "Southern Gensis Plaza - Granted to Last Slice for https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5",
     "contactInfo": {
       "name": ""
     },
@@ -2036,6 +2040,38 @@
       "8,-72",
       "9,-72",
       "10,-72"
+    ]
+  },
+  {
+    "name": "Oleksandr Shcherba - EMPIRE",
+    "desc": "Empire, an agency in Abu Dhabi for clients in DCL. Support to them in their activities by leasing them land",
+    "contactInfo": {
+      "name": ""
+    },
+    "addresses": [
+      "0x9CE4C7C5E4938f31817c0Ab29dac6cD6194791Fc"
+    ],
+    "plots": [
+      "-60,-56",
+      "-60,-57",
+      "-60,-58",
+      "-60,-59",
+      "-59,-56",
+      "-59,-57",
+      "-59,-58",
+      "-59,-59",
+      "-58,-56",
+      "-58,-57",
+      "-58,-58",
+      "-58,-59",
+      "-57,-59",
+      "-57,-58",
+      "-57,-57",
+      "-57,-56",
+      "-56,-56",
+      "-56,-57",
+      "-56,-58",
+      "-56,-59"
     ]
   }
 ]
