@@ -2073,5 +2073,23 @@
       "-56,-58",
       "-56,-59"
     ]
+  },
+  {
+    "name": "Rarible gallery",
+    "desc": "Rarible gallery",
+    "contactInfo": {
+      "name": ""
+    },
+    "addresses": [
+      "0x4add2035599fA949DBe6EF57c54ED3Fe6243D07d"
+    ],
+    "plots": [
+      "60,25",
+      "61,25",
+      "62,25",
+      "60,24",
+      "61,24",
+      "62,24"
+    ]
   }
 ]
