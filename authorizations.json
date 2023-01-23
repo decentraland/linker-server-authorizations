@@ -2075,24 +2075,6 @@
     ]
   },
   {
-    "name": "Rarible gallery",
-    "desc": "Rarible gallery",
-    "contactInfo": {
-      "name": ""
-    },
-    "addresses": [
-      "0x4add2035599fA949DBe6EF57c54ED3Fe6243D07d"
-    ],
-    "plots": [
-      "60,25",
-      "61,25",
-      "62,25",
-      "60,24",
-      "61,24",
-      "62,24"
-    ]
-  },
-  {
     "name": "Reefline",
     "desc": "https://www.thereefline.org/",
     "contactInfo": {
@@ -2127,6 +2109,27 @@
       "74,6",
       "75,6",
       "76,6"
+    ]
+  },
+  {
+    "name": "Decentraland HQ",
+    "desc": "Decentraland HQ",
+    "contactInfo": {
+      "name": ""
+    },
+    "addresses": [
+      "0x4730182099bc4e60075C657cCeCEc8879826bb43"
+    ],
+    "plots": [
+      "61,20",
+      "61,21",
+      "61,22",
+      "62,20",
+      "62,21",
+      "62,22",
+      "63,20",
+      "63,21",
+      "63,22"
     ]
   }
 ]
