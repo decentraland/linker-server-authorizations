@@ -3458,5 +3458,25 @@
       "70, 71",
       "71, 71"
     ]
+  },
+  {
+    "name": "Automatic Slims deployment rights",
+    "desc": "Deploy rights for Automatic Slims",
+    "contactInfo": {
+      "name": "Iara Diaz"
+    },
+    "addresses": [
+      "0x3e89930d429404c59Df3607670Ee6c9c35D6d2fE"
+    ],
+    "plots": [
+      "-65,-30",
+      "-64,-30",
+      "-63,-30",
+      "-62,-30",
+      "-65,-31",
+      "-64,-31",
+      "-63,-31",
+      "-62,-31"
+    ]
   }
 ]
