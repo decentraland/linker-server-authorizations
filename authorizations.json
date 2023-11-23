@@ -3828,7 +3828,7 @@
       "name": ""
     },
     "endDate": "2024-01-31",
-    "addresses": ["0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF","0xd91dB432D98D80e9467206cab3B9C46081795f0d"],
+    "addresses": ["0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF"],
     "plots": [
       "-26,88",
       "-26,89",
