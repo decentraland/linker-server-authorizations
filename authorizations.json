@@ -4358,8 +4358,8 @@
       "70,-52",
       "71,-52"
     ]
-  },
-   {
+  }, 
+  {
     "name": "DCL Goodbye Party 2023",
     "desc": "Deploy rights for Low Poly Models",
     "contactInfo": {
@@ -4368,7 +4368,7 @@
     "startDate": "2023-12-25",
     "endDate": "2024-01-15",
     "addresses": [
-      "0x967fB0c36e4f5288F30Fb05F8B2a4d7B77eaca4b"
+      "0x967fb0c36e4f5288f30fb05f8b2a4d7b77eaca4b"
     ],
     "plots": [
       "148,-100",
@@ -4406,7 +4406,7 @@
       "146,-95",
       "145,-95",
       "144,-95",
-      "143,-95",
+      "143,-95"
     ]
   },
 ]
