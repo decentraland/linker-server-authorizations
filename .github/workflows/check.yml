@@ -1,9 +1,6 @@
 name: Check files workflow
 
-on:
-  push:
-    branches:
-      - master
+on: [push, pull_request]
 
 jobs:
   check:
