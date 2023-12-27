@@ -3,20 +3,9 @@
     "name": "",
     "desc": "",
     "contactInfo": {
-      "name": ""
-    },
-    "addresses": [],
-    "plots": []
-  },
-  {
-    "name": "",
-    "desc": "",
-    "contactInfo": {
       "name": "North West Plaza - DCL content team wallet"
     },
-    "addresses": [
-      "0x4730182099bc4e60075C657cCeCEc8879826bb43"
-    ],
+    "addresses": ["0x4730182099bc4e60075C657cCeCEc8879826bb43"],
     "plots": [
       "-73,50",
       "-72,50",
@@ -356,9 +345,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0xbfe232FaEf01C0809b9f36FA0302b42783F41a55"
-    ],
+    "addresses": ["0xbfe232FaEf01C0809b9f36FA0302b42783F41a55"],
     "plots": [
       "-73,50",
       "-72,50",
@@ -1000,9 +987,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x291630b44dCe8c0e9Ab5b24130ba1519541cA82C"
-    ],
+    "addresses": ["0x291630b44dCe8c0e9Ab5b24130ba1519541cA82C"],
     "plots": [
       "-71,52",
       "-70,52",
@@ -1204,15 +1189,8 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x15836Bd19C2340d0565Ce9f74412B8649636A0C8"
-    ],
-    "plots": [
-      "-119,-104",
-      "-118,-104",
-      "-119,-103",
-      "-118,-103"
-    ]
+    "addresses": ["0x15836Bd19C2340d0565Ce9f74412B8649636A0C8"],
+    "plots": ["-119,-104", "-118,-104", "-119,-103", "-118,-103"]
   },
   {
     "name": "",
@@ -1220,9 +1198,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0xceba6b4186aae99bc8c3c467601bd344b1d62764"
-    ],
+    "addresses": ["0xceba6b4186aae99bc8c3c467601bd344b1d62764"],
     "plots": [
       "-9,-91",
       "-8,-91",
@@ -1632,9 +1608,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x43aeb5026eBF984F2B42f2898392b5eF3F5Be2a2"
-    ],
+    "addresses": ["0x43aeb5026eBF984F2B42f2898392b5eF3F5Be2a2"],
     "plots": [
       "-60,-56",
       "-60,-57",
@@ -1664,17 +1638,8 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x4add2035599fA949DBe6EF57c54ED3Fe6243D07d"
-    ],
-    "plots": [
-      "60,25",
-      "61,25",
-      "62,25",
-      "60,24",
-      "61,24",
-      "62,24"
-    ]
+    "addresses": ["0x4add2035599fA949DBe6EF57c54ED3Fe6243D07d"],
+    "plots": ["60,25", "61,25", "62,25", "60,24", "61,24", "62,24"]
   },
   {
     "name": "Reefline",
@@ -1682,9 +1647,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x7075b96b4C503399F3f0f07151aCEcb5D88116b0"
-    ],
+    "addresses": ["0x7075b96b4C503399F3f0f07151aCEcb5D88116b0"],
     "plots": [
       "72,10",
       "73,10",
@@ -1719,9 +1682,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x17249CB39AA50FdE479347E5A67E66Aa0d59b479"
-    ],
+    "addresses": ["0x17249CB39AA50FdE479347E5A67E66Aa0d59b479"],
     "plots": [
       "-92,9",
       "-92,8",
@@ -2131,9 +2092,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x1337Ea10b8c5844a260113DE73F3d3031a7a593d"
-    ],
+    "addresses": ["0x1337Ea10b8c5844a260113DE73F3d3031a7a593d"],
     "plots": [
       "52,25",
       "53,25",
@@ -2175,9 +2134,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x603Ad9068aB54885eEB7D478C34967da4Ee03089"
-    ],
+    "addresses": ["0x603Ad9068aB54885eEB7D478C34967da4Ee03089"],
     "plots": [
       "-88,-13",
       "-88,-14",
@@ -2199,9 +2156,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0xF26BFc874B9E4e13C9b78C2586F13f6d887e5f51"
-    ],
+    "addresses": ["0xF26BFc874B9E4e13C9b78C2586F13f6d887e5f51"],
     "plots": [
       "-59,68",
       "-58,68",
@@ -2227,15 +2182,8 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x3807255e41831020Cf9eC32Cc20b3224Cb32122d"
-    ],
-    "plots": [
-      "-79,-24",
-      "-79,-25",
-      "-78,-24",
-      "-78,-25"
-    ]
+    "addresses": ["0x3807255e41831020Cf9eC32Cc20b3224Cb32122d"],
+    "plots": ["-79,-24", "-79,-25", "-78,-24", "-78,-25"]
   },
   {
     "name": "Tubular Bells 50",
@@ -2243,9 +2191,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x4730182099bc4e60075C657cCeCEc8879826bb43"
-    ],
+    "addresses": ["0x4730182099bc4e60075C657cCeCEc8879826bb43"],
     "plots": [
       "-4,-41",
       "-4,-42",
@@ -2264,9 +2210,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0xb11194bA99a939a16009Cb96C4Aa0120765280ff"
-    ],
+    "addresses": ["0xb11194bA99a939a16009Cb96C4Aa0120765280ff"],
     "plots": [
       "52,71",
       "53,71",
@@ -2356,9 +2300,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0xf53fc081220a410985988f2d1c1fe82f2b4eea7c"
-    ],
+    "addresses": ["0xf53fc081220a410985988f2d1c1fe82f2b4eea7c"],
     "plots": [
       "56,52",
       "57,52",
@@ -2688,9 +2630,7 @@
     "contactInfo": {
       "name": "Iara Diaz"
     },
-    "addresses": [
-      "0x3e89930d429404c59Df3607670Ee6c9c35D6d2fE"
-    ],
+    "addresses": ["0x3e89930d429404c59Df3607670Ee6c9c35D6d2fE"],
     "plots": [
       "-65,-30",
       "-64,-30",
@@ -2708,9 +2648,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x9a4ff277dfa97504f24cb4e483deba45ada7639d"
-    ],
+    "addresses": ["0x9a4ff277dfa97504f24cb4e483deba45ada7639d"],
     "plots": [
       "-9,-9",
       "-9,-8",
@@ -3100,9 +3038,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x474543b99438a978b39d39d8983723eb5ff9196b"
-    ],
+    "addresses": ["0x474543b99438a978b39d39d8983723eb5ff9196b"],
     "plots": [
       "-4,-34",
       "-3,-34",
@@ -3120,9 +3056,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x56469159D91eb810dCE34dd13eC4eD8194bCA7be"
-    ],
+    "addresses": ["0x56469159D91eb810dCE34dd13eC4eD8194bCA7be"],
     "plots": [
       "-59,-68",
       "-60,-68",
@@ -3156,9 +3090,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x8c95B22F9bFB562D5f706898d70C027503D60362"
-    ],
+    "addresses": ["0x8c95B22F9bFB562D5f706898d70C027503D60362"],
     "plots": [
       "-21,83",
       "-21,84",
@@ -3306,9 +3238,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0xEF50b5b77b9469fD171eE3A3Fa375c303AF51031"
-    ],
+    "addresses": ["0xEF50b5b77b9469fD171eE3A3Fa375c303AF51031"],
     "plots": [
       "72,10",
       "73,10",
@@ -3718,9 +3648,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0x560955D890e715c0F2940349f24594F5712bb78D"
-    ],
+    "addresses": ["0x560955D890e715c0F2940349f24594F5712bb78D"],
     "plots": [
       "-71,67",
       "-71,68",
@@ -3756,9 +3684,7 @@
       "name": ""
     },
     "endDate": "2023-12-24",
-    "addresses": [
-      "0x8c95B22F9bFB562D5f706898d70C027503D60362"
-    ],
+    "addresses": ["0x8c95B22F9bFB562D5f706898d70C027503D60362"],
     "plots": [
       "-36,-131",
       "-36,-132",
@@ -3833,9 +3759,7 @@
       "name": ""
     },
     "endDate": "2024-01-31",
-    "addresses": [
-      "0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF"
-    ],
+    "addresses": ["0x4262f8BB5bd9Ad132782D2a7279b532A1DC6BCbF"],
     "plots": [
       "-26,88",
       "-26,89",
@@ -3905,9 +3829,7 @@
     },
     "startDate": "2023-10-23",
     "endDate": "2024-01-23",
-    "addresses": [
-      "0xd91dB432D98D80e9467206cab3B9C46081795f0d"
-    ],
+    "addresses": ["0xd91dB432D98D80e9467206cab3B9C46081795f0d"],
     "plots": [
       "-24,85",
       "-24,84",
@@ -3953,9 +3875,7 @@
     "contactInfo": {
       "name": ""
     },
-    "addresses": [
-      "0xee0d0011a6581983c70f6bdd8875c207020166fa"
-    ],
+    "addresses": ["0xee0d0011a6581983c70f6bdd8875c207020166fa"],
     "plots": [
       "52,-71",
       "53,-71",
@@ -4358,7 +4278,7 @@
       "70,-52",
       "71,-52"
     ]
-  }, 
+  },
   {
     "name": "DCL Goodbye Party 2023",
     "desc": "Deploy rights for Low Poly Models",
@@ -4367,9 +4287,7 @@
     },
     "startDate": "2023-12-25",
     "endDate": "2024-01-15",
-    "addresses": [
-      "0x967fb0c36e4f5288f30fb05f8b2a4d7b77eaca4b"
-    ],
+    "addresses": ["0x967fb0c36e4f5288f30fb05f8b2a4d7b77eaca4b"],
     "plots": [
       "148,-100",
       "147,-100",

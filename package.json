@@ -1,0 +1,20 @@
+{
+  "name": "linker-server-authorizations",
+  "version": "1.0.0",
+  "description": "To allow an address to deploy over Roads or Plazas, please send a pull request updating `db.json`.",
+  "main": "index.js",
+  "scripts": {
+    "check-files": "ts-node check.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcl/schemas": "^9.11.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
