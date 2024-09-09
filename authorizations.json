@@ -4933,5 +4933,25 @@
       "140,-141",
       "-139,-28"
     ]
+  },
+  {
+    "name": "Exploration Quests DappCraft Deployment",
+    "desc": "Exploration Quests DappCraft Deployment",
+    "contactInfo": {
+      "name": ""
+    },
+    "addresses": [
+      "0x955d1456CF724DC705F693111a74112126cdD47E"
+    ],
+    "plots": [
+      "-85,-97",
+      "-109,-97",
+      "-138,-94",
+      "50,-88",
+      "-131,-146",
+      "-139,-28",
+      "-126,-73",
+      "79,-30"
+    ]
   }
 ]
