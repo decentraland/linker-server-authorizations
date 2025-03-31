@@ -6110,5 +6110,23 @@
       "142,-81",
       "143,-81"
     ]
+  },
+  {
+    "name": "MultiNFT RAGE to Music Talent Trail",
+    "desc": "MultiNFT RAGE to Music Talent Trail",
+    "contactInfo": {
+      "name": ""
+    },
+    "startDate": "2025-01-03",
+    "endDate": "2025-08-31",
+    "addresses": [
+      "0x37be7606dc240ec4b4d7dc7e5a4c108ab72806c5"
+    ],
+    "plots": [
+      "148,50",
+      "149,50",
+      "148,49",
+      "149,49"
+    ]
   }
 ]
