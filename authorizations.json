@@ -6130,5 +6130,41 @@
       "148,49",
       "149,49"
     ]
+  },
+  {
+    "name": "Unai",
+    "desc": "Unai",
+    "contactInfo": {
+      "name": ""
+    },
+    "startDate": "2025-05-05",
+    "endDate": "2025-11-05",
+    "addresses": [
+      "0x8b4221B34efeb8F4ba874CF07D7f6c456c5CC347"
+    ],
+    "plots": [
+      "148,45",
+      "149,45",
+      "148,44",
+      "149,44"
+    ]
+  },
+  {
+    "name": "Albina",
+    "desc": "Albina",
+    "contactInfo": {
+      "name": ""
+    },
+    "startDate": "2025-05-05",
+    "endDate": "2025-11-05",
+    "addresses": [
+      "0x5dffC103764d035f5045Ffb2107D57861DDB7689"
+    ],
+    "plots": [
+      "148,43",
+      "149,43",
+      "148,42",
+      "149,42"
+    ]
   }
 ]
