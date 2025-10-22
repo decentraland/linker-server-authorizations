@@ -6434,5 +6434,24 @@
       "-3,-34",
       "-4,-34"
     ]
+  },
+  {
+    "name": "Fright Night",
+    "desc": "Fright Night collaborators",
+    "startDate": "2025-10-21",
+    "endDate": "2026-04-22",
+    "contactInfo": {
+      "name": ""
+    },
+    "addresses": [
+      "0xe339ebC7EC708BF42EEd1B54a4Df852312DB2c5b"
+    ],
+    "plots": [
+      "-127,-81",
+      "-127,-80", 
+      "-126,-81", 
+      "-126,-80", 
+      "-126,-79"
+    ]
   }
 ]
