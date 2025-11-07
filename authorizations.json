@@ -4095,6 +4095,25 @@
     ]
   },
   {
+    "name": "Community Jumsptart Program",
+    "desc": "",
+    "contactInfo": {
+      "name": "Msjoedor"
+    },
+    "addresses": ["0xb4ce59337a3c6a6b2774afa90c7edbd5602880cc"],
+    "plots": [
+       "57,-57", 
+       "58,-57", 
+       "59,-57", 
+       "57,-58", 
+       "58,-58", 
+       "59,-58", 
+       "57,-59", 
+       "58,-59", 
+       "59,-59"
+    ]
+  },
+  {
     "name": "Wellness Week 23 Plaza",
     "desc": "",
     "contactInfo": {
